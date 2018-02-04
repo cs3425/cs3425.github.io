@@ -2,7 +2,7 @@
 
 ## Hello MTV
 ### Welcome to my crib
-I am a big dog and my name is Luna. I like the outdoors, small kids, eating other people's food, and not staying still for pictures. 
+#### I am a big dog and my name is Luna. I like the outdoors, small kids, eating other people's food, and not staying still for pictures. 
 
 ![alt text](cs3425.github.io/IMG_3501.JPG "Mountain doggo")
 
